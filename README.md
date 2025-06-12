@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science programming, Python, C, Machine Learning, Big Data, Data Analytics, Entrepreneurship, 
 - 🌱 I’m currently learning R, Python, Pandas, Databases, Data Visualiztion, Masters Student @ FloridaPoly.
 - 💞️ I’m looking to collaborate on Machine Learning projects, Statiscal Learning.
-- 📫 How to reach me _rbp797@gmail.com_
+- 📫 How to reach me _rbp797@duck.com_
 
 <!---
 rbp797/rbp797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
