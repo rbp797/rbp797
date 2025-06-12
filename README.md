@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rbp797
-- 👀 I’m interested in Data Science programming
-- 🌱 I’m currently learning R, Python, Pandas...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science programming, Python, C, Machine Learning, Big Data, Data Analytics, Entrepreneurship, 
+- 🌱 I’m currently learning R, Python, Pandas, Databases, Data Visualiztion, Masters Student @ FloridaPoly.
+- 💞️ I’m looking to collaborate on Machine Learning projects, Statiscal Learning.
 - 📫 How to reach me rbp797@gmail.com ...
 
 <!---
